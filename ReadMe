@@ -1,3 +1,2 @@
-git commit -m "commit message"
-git remote add origin https://github.com/devming/CustomMessageBox.git
-git push -u origin master
+MessageBox의 크기를 조절할 수 있습니다.
+유용하게 수정해서 사용하세요 ^^
